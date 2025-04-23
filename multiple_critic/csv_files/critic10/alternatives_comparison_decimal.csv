@@ -1,0 +1,13 @@
+Criteria,Alternative,Multi-factor Authentication,Network Security,Data Encryption
+Effectiveness,Multi-factor Authentication,1.000,2.000,3.000
+Effectiveness,Network Security,0.500,1.000,2.000
+Effectiveness,Data Encryption,0.333,0.500,1.000
+Compliance,Multi-factor Authentication,1.000,0.500,2.000
+Compliance,Network Security,2.000,1.000,3.000
+Compliance,Data Encryption,0.500,0.333,1.000
+Implementation,Multi-factor Authentication,1.000,3.000,2.000
+Implementation,Network Security,0.333,1.000,0.500
+Implementation,Data Encryption,0.500,2.000,1.000
+Cost,Multi-factor Authentication,1.000,0.500,0.333
+Cost,Network Security,2.000,1.000,0.500
+Cost,Data Encryption,3.000,2.000,1.000
